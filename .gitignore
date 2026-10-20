@@ -1,0 +1,17 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 编码中间产物
+*.part
+*.log
+
+# 工具生成的输出文件（不属于源码）
+*_压缩*.mp4
+*_截取_*.mp4
+*_试片*.mp4
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
